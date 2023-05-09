@@ -1,0 +1,282 @@
+{
+	"info": {
+		"_postman_id": "a3594c1a-236a-418f-a176-51fd624d16f0",
+		"name": "dp-postman-collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1-articles",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{accessToken}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{{bulk_articles}}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{site}}/api/v1/articles/bulk",
+					"host": [
+						"{{site}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"articles",
+						"bulk"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2-contact-types",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{accessToken}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{{bulk_contact-types}}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{site}}/api/v1/contact-types/bulk",
+					"host": [
+						"{{site}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"contact-types",
+						"bulk"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3-helpers",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{accessToken}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{{bulk_helpers}}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{site}}/api/v1/helpers/bulk",
+					"host": [
+						"{{site}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"helpers",
+						"bulk"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4-item-characteristics",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{accessToken}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{{bulk_item-characteristics}}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{site}}/api/v1/item-characteristics/bulk",
+					"host": [
+						"{{site}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"item-characteristics",
+						"bulk"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5-item-brands",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{accessToken}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{{bulk_item-brands}}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{site}}/api/v1/item-brands/bulk",
+					"host": [
+						"{{site}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"item-brands",
+						"bulk"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6-item-categories",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{accessToken}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{{bulk_item-categories}}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{site}}/api/v1/item-categories/bulk",
+					"host": [
+						"{{site}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"item-categories",
+						"bulk"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7-items",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{accessToken}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{{bulk_items}}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{site}}/api/v1/items/bulk",
+					"host": [
+						"{{site}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"items",
+						"bulk"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

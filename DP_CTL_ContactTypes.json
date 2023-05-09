@@ -1,0 +1,10 @@
+{
+  "bulk": [
+    { "dp_name": "phone" },
+    { "dp_name": "email" },
+    { "dp_name": "viber" },
+    { "dp_name": "whatsapp" },
+    { "dp_name": "telegram" },
+    { "dp_name": "skype" }
+  ]
+}

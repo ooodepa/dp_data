@@ -1,0 +1,211 @@
+{
+  "bulk": [
+    {
+      "dp_name": "Аксессуары",
+      "dp_urlSegment": "dp-accessories",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/accessories/11202.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "аксессуары",
+      "dp_seoDescription": "Продукция DE-PA Electric. Аксессуары",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Английская серия",
+      "dp_urlSegment": "dp-british-system-series",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/british-system-series/41400.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "удлинители",
+      "dp_seoDescription": "Продукция DE-PA Electric. Английская серия",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Кабельные каналы",
+      "dp_urlSegment": "dp-cable-trunking",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/cable-trunking/05001212.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "кабельные каналы",
+      "dp_seoDescription": "Продукция DE-PA Electric. Кабельные каналы",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Коробки под автомать",
+      "dp_urlSegment": "dp-fuse-boxes",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/fuse-boxes/91036-2.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "автомать",
+      "dp_seoDescription": "Продукция DE-PA Electric. Коробки под автомать",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Разветлители. Тройники",
+      "dp_urlSegment": "dp-group-socket-and-plug",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/group-socket-and-plug/10004.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "разветвлители тройники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Разветлители. Тройники",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "IP44 вагозащищенных накладных изделий",
+      "dp_urlSegment": "dp-ip44-moisture-proof-series",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/ip44-moisture-proof-series/81101.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "влагозащищенные",
+      "dp_seoDescription": "Продукция DE-PA Electric. IP44 вагозащищенных накладных изделий",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Серия Жемчужина",
+      "dp_urlSegment": "dp-pearl-series",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/pearl-series/12100.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "удлинители",
+      "dp_seoDescription": "Продукция DE-PA Electric. Серия Жемчужина",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Потолочные светильники",
+      "dp_urlSegment": "dp-plastic-lighting-fixtures",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/plastic-lighting-fixtures/95002.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светилиники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Потолочные светильники",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Алпик (потолочные светильники)",
+      "dp_urlSegment": "dp-alpik",
+      "dp_photoUrl": "",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светильники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Алпик (потолочные светильники)",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Глоп (потолочные светильники)",
+      "dp_urlSegment": "dp-glop",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/glop/95015-4-4.jpg",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светильники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Глоп (потолочные светильники)",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Луна (потолочные светильники)",
+      "dp_urlSegment": "dp-luna",
+      "dp_photoUrl": "",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светильники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Луна (потолочные светильники)",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Махи луна (потолочные светильники)",
+      "dp_urlSegment": "dp-maxi-luna",
+      "dp_photoUrl": "",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светильники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Махи луна (потолочные светильники)",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Светильники с решеткой (потолочные светильники)",
+      "dp_urlSegment": "dp-mini-lighting-figures-with-cage",
+      "dp_photoUrl": "",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светильники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Светильники с решеткой (потолочные светильники)",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Квадрат (потолочные светильники)",
+      "dp_urlSegment": "dp-square-plastic",
+      "dp_photoUrl": "",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светильники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Квадрат (потолочные светильники)",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Томбикс (потолочные светильники)",
+      "dp_urlSegment": "dp-square-tombix",
+      "dp_photoUrl": "",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светильники",
+      "dp_seoDescription": "Продукция DE-PA Electric. Томбикс (потолочные светильники)",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Влагозащищеные потолочные светильники",
+      "dp_urlSegment": "dp-waterproof",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/waterproof/95021-2.jpg",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "светильники влагозащищенные",
+      "dp_seoDescription": "Продукция DE-PA Electric. Влагозащищеные потолочные светильники",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Резиновая серия",
+      "dp_urlSegment": "dp-rubber-series",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/rubber-series/338027.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "",
+      "dp_seoDescription": "Продукция DE-PA Electric. Резиновая серия",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Серия Звезда",
+      "dp_urlSegment": "dp-star-series",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/star-series/961100.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "удлинители",
+      "dp_seoDescription": "Продукция DE-PA Electric. Серия Звезда",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Серия розеток накладных с заземлением",
+      "dp_urlSegment": "dp-surfase-mounted-socket-series",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/surfase-mounted-socket-series/81301.png",
+      "dp_itemBrandId": 1,
+      "dp_seoKeywords": "розетки",
+      "dp_seoDescription": "Продукция DE-PA Electric. Серия розеток накладных с заземлением",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "MONO Electric ECO",
+      "dp_urlSegment": "mono-eco",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/mono-electric/101-010201-102.png",
+      "dp_itemBrandId": 2,
+      "dp_seoKeywords": "розетки",
+      "dp_seoDescription": "Продукция MONO Electric. ECO",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "MONO Electric DESPINA",
+      "dp_urlSegment": "mono-despina",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/mono-electric/102-190021-118.jpg",
+      "dp_itemBrandId": 2,
+      "dp_seoKeywords": "розетки",
+      "dp_seoDescription": "Продукция MONO Electric. DESPINA",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "MONO Electric Monte",
+      "dp_urlSegment": "mono-monte",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/mono-electric/105-010207-118.jpg",
+      "dp_itemBrandId": 2,
+      "dp_seoKeywords": "розетки",
+      "dp_seoDescription": "Продукция MONO Electric. Monte",
+      "dp_isHidden": false
+    },
+    {
+      "dp_name": "Листы EVA, EPDM, полиэтилена",
+      "dp_urlSegment": "eva-eva",
+      "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/eva/eva-sheets.jpg",
+      "dp_itemBrandId": 3,
+      "dp_seoKeywords": "EVA EPDM полиэтилен",
+      "dp_seoDescription": "Листы EVA, листы EPDM, листы полиэтилена",
+      "dp_isHidden": false
+    }
+  ]
+}
