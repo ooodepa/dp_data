@@ -1,0 +1,101 @@
+{
+  "bulk": [
+    {
+      "dp_sortingIndex": 10,
+      "dp_name": "Центральный офис г. Брест",
+      "dp_description": "ООО \"ДЕ-ПА\", г. Брест, ул. Лейтенанта Рябцева, д. 108 М, УНП 291477952, р/с BY18MTBK30120001093300082100 в ЗАО \"МТБанк\", БИК MTBKBY22",
+      "dp_isHidden": false,
+      "dp_helperContactTypes": [
+        {
+          "dp_contactTypeId": 1,
+          "dp_value": "+375-162-51-77-33 (BY)",
+          "dp_isHidden": false
+        }
+      ]
+    },
+    {
+      "dp_sortingIndex": 20,
+      "dp_name": "Директор",
+      "dp_description": "",
+      "dp_isHidden": false,
+      "dp_helperContactTypes": [
+        {
+          "dp_contactTypeId": 1,
+          "dp_value": "+90-546-202-77-33 (TR)",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 1,
+          "dp_value": "+375-33-305-77-33 (BY)",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 2,
+          "dp_value": "info@de-pa.by",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 3,
+          "dp_value": "905462027733",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 4,
+          "dp_value": "905462027733",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 6,
+          "dp_value": "rusturkeygroup",
+          "dp_isHidden": false
+        }
+      ]
+    },
+    {
+      "dp_sortingIndex": 30,
+      "dp_name": "Зам. директора",
+      "dp_description": "",
+      "dp_isHidden": false,
+      "dp_helperContactTypes": [
+        {
+          "dp_contactTypeId": 1,
+          "dp_value": "+375-33-365-77-33 (BY)",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 2,
+          "dp_value": "zamdirector@de-pa.by",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 6,
+          "dp_value": "natali_from_brest",
+          "dp_isHidden": false
+        }
+      ]
+    },
+    {
+      "dp_sortingIndex": 40,
+      "dp_name": "Контактная информация фирмы DE-PA Electric",
+      "dp_description": "İkitelli Org. San. Böl. Metal İş San Sit. 17.Blok No:2-4-6-8 Başakşehir/İstanbul/Turkey",
+      "dp_isHidden": false,
+      "dp_helperContactTypes": [
+        {
+          "dp_contactTypeId": 1,
+          "dp_value": "+90-212-549-72-94 (TR)",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 1,
+          "dp_value": "+90-212-549-24-97 (TR)",
+          "dp_isHidden": false
+        },
+        {
+          "dp_contactTypeId": 2,
+          "dp_value": "erdal@de-pa.com.tr",
+          "dp_isHidden": false
+        }
+      ]
+    }
+  ]
+}
